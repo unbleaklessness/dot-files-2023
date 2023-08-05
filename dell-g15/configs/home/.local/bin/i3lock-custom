@@ -1,0 +1,25 @@
+#!/bin/bash
+
+i3lock \
+    -k \
+    -e \
+    -f \
+    --time-pos="300:200" \
+    --wrong-text="Wrong!" \
+    --verif-text="Verifying..." \
+    --date-size=24 \
+    --date-color=ffffffff \
+    --time-size=64 \
+    --time-color=ffffffff \
+    --bshl-color=808080ff \
+    --keyhl-color=ffffffff \
+    --separator-color=ffffffff \
+    --ring-color=202020ff \
+    --ringwrong-color=303030ff \
+    --ringver-color=303030ff \
+    --inside-color=000000ff \
+    --insidever-color=000000ff \
+    --insidewrong-color=000000ff \
+    --line-color=ffffffff \
+    --color=303030 \
+
